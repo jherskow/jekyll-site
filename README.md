@@ -5,7 +5,9 @@ A simple site created using jekyll
 
 you can run locally by cloning this project, 
 
-istall ruby
+install ruby
+
+cd into josh-oss-site
 
 install the bundler and jekyll gems
 
